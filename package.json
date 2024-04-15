@@ -1,0 +1,20 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "a backend for youtube",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Ayush Namdev",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
